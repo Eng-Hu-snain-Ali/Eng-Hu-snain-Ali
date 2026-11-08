@@ -24,7 +24,6 @@ $ cat about.txt
 
 | | |
 |---|---|
-| 💻 **What I do** | Full-stack developer who builds AI-powered applications and automations |
 | 👀 **Interested in** | Scalable web apps, modern UIs, and powerful backend systems |
 | 🌱 **Focus** | AI · n8n · Next.js · advanced JavaScript · backend development · mastering DSA for interviews |
 | 💞️ **Looking to collaborate on** | Startups, SaaS products, and impactful open-source projects |
@@ -136,10 +135,10 @@ $ cat roadmap.md
 
 | Focus | What I'm working on |
 |:--|:--|
-| 🧠 **AI & automation** | AI-powered applications and n8n workflows |
+| 🧠 **AI & automation** | AI systems and n8n workflows |
 | ⚛️ **Web** | Next.js and advanced JavaScript for modern UIs |
 | 🛠️ **Backend** | Scalable, powerful backend systems |
-| 🧩 **Interviews** | Mastering DSA |
+| 🧩 **Efficient Apps** | Mastering DSA |
 
 <br/>
 
