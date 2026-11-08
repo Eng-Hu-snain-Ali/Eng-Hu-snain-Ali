@@ -119,3 +119,10 @@ Building something? Let's talk.
 </p>
 
 <p align="center"><i>⚡ I started with C++ and now build full websites. I love turning ideas into real products.</i></p>
+
+---
+
+## 📝 Articles
+
+1. Gulam Husnain Ali, "AI will not replace humans but those who lacks innovation and creativity," *PakTech Today*, vol. 1, no. 15, pp. 404-405, Aug. 2026. [(See here)](https://pakjournals.com/ojs/index.php/ptt/article/view/108/139)
+2. Gulam Husnain Ali, "Humans at the initial stage of next revolution," *PakTech Today*, vol. 1, no. 18, pp. 493-500, Sep. 2026. [(See here)](https://pakjournals.com/ojs/index.php/ptt/article/view/563/170)
