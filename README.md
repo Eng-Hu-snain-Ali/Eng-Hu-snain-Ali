@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Husnain%20Ali&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20%26%20AI%20Developer&descSize=18&descAlignY=58" alt="Husnain Ali banner" />
+
 
 <a href="https://github.com/Eng-Hu-snain-Ali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+scalable+web+apps;Modern+UIs+%26+powerful+backend+systems;Learning+AI+%7C+Next.js+%7C+DSA;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing animation" />
