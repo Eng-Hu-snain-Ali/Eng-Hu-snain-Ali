@@ -14,13 +14,13 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineering student at the University of Agriculture, Faisalabad, Pakistan**. I started with C++ and now build full websites and AI-powered tools. I love turning ideas into real products.
+I'm a **full-stack developer and Software Engineering student at the University of Agriculture, Faisalabad, Pakistan**. I build AI-powered applications, automations, and full-stack web products, from backend systems to modern UIs. I started with C++ and turn ideas into real products.
 
 | | |
 |---|---|
-| 👀 **Interested in** | Scalable web apps, modern UIs, and powerful backend systems |
-| 🌱 **Currently learning** | AI · Next.js · advanced JavaScript · backend development · mastering DSA for interviews |
-| 💞️ **Looking to collaborate on** | Startups, SaaS products, and impactful open-source projects |
+| 👀 **I build** | Scalable web apps, modern UIs, and powerful backend systems |
+| 🌱 **Core focus** | AI · n8n · Next.js · advanced JavaScript · backend development · DSA for technical interviews |
+| 💞️ **Open to collaborating on** | Startups, SaaS products, and impactful open-source projects |
 | 📫 **Reach me** | [GitHub](https://github.com/Eng-Hu-snain-Ali) or [LinkedIn](https://www.linkedin.com/in/husnain-ali-039092317) |
 | 😄 **Pronouns** | He / Him |
 
@@ -98,31 +98,31 @@ I'm a **Software Engineering student at the University of Agriculture, Faisalaba
 
 ---
 
-## 🧭 Roadmap
+## 🧭 Focus Areas
 
-| Focus | What I'm working on |
+| Focus | What I work on |
 |-------|---------------------|
 | 🧠 **AI & Automation** | AI systems and n8n workflows |
 | ⚛️ **Web** | Next.js and advanced JavaScript for modern UIs |
 | 🛠️ **Backend** | Scalable, powerful backend systems |
-| 🧩 **Interviews** | Mastering DSA |
+| 🧩 **Interviews** | Data structures & algorithms for technical interviews |
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm looking to collaborate on **startups, SaaS products, and impactful open-source projects**.
+I'm open to collaborating on **startups, SaaS products, and impactful open-source projects**.
 Building something? Let's talk.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/husnain-ali-039092317"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message on LinkedIn" /></a>
 </p>
 
-<p align="center"><i>⚡ I started with C++ and now build full websites. I love turning ideas into real products.</i></p>
+<p align="center"><i>⚡ I started with C++ and now build full-stack products. I love turning ideas into real products.</i></p>
 
 ---
 
-## 📝 Articles
+## 📝 Publications
 
 1. Gulam Husnain Ali, "AI will not replace humans but those who lacks innovation and creativity," *PakTech Today*, vol. 1, no. 15, pp. 404-405, Aug. 2026. [(See here)](https://pakjournals.com/ojs/index.php/ptt/article/view/108/139)
 2. Gulam Husnain Ali, "Humans at the initial stage of next revolution," *PakTech Today*, vol. 1, no. 18, pp. 493-500, Sep. 2026. [(See here)](https://pakjournals.com/ojs/index.php/ptt/article/view/563/170)
