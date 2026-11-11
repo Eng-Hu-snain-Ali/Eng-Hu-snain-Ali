@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **full-stack developer and Software Engineering student at the University of Agriculture, Faisalabad, Pakistan**. I build AI-powered applications, automations, and full-stack web products, from backend systems to modern UIs. I started with C++ and turn ideas into real products.
+I'm a ** Software Engineer**. I build AI-powered applications, automations, and full-stack web products, from backend systems to modern UIs. I started with C++ and turn ideas into real products.
 
 | | |
 |---|---|
